@@ -1,6 +1,5 @@
 
 //This is NCC diploma level 1, assignment 2 by Ye Thiha Thein.
-//raythihathein@gmail.com
 
 
 #include <stdio.h>
